@@ -1,1 +1,1 @@
-## Hi, I'm Eric, an IT Professional
+## Hi, I'm Joe, an IT Professional
