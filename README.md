@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/erobin5297/configure-ad)
   - [Network Security Groups (NSG's) and Inspecting Network Protocols](https://github.com/erobin5297/gpm-eventvwr)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in a Virtual Machine](https://github.com/erobin5297/vpn-setup)
 
 <h2>🤳Connect with me:</h2>
 
